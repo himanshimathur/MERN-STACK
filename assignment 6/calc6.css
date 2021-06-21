@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue ;
+}
+
+.title{
+    margin-bottom: 10px;
+    text-align: center;
+    color: burlywood;
+    border: solid black 2px;
+    font-size: 50px;
+    width: 500px;
+    margin-left: 500px;
+    background-color: rgb(51, 97, 5);
+
+}
+
+table,th,td{
+    border: 5px solid black;
+    float: left;
+    background-color: coral;
+
+}
+
+.val{
+    background-color: cornflowerblue;
+    color: rgb(13, 14, 14);
+    border: solid black 2px;
+    width: 100px;
+    height: 80px;
+    font-size: large;
+}
